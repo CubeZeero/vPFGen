@@ -1,0 +1,11 @@
+{
+    "name": "Cube Basic Template",
+    "dir_list": [
+        "01_AEP(Comp)",
+        "02_Material",
+        "03_Music",
+        "04_Preview",
+        "05_Documents",
+        "06_Master"
+    ]
+}
