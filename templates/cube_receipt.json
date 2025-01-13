@@ -1,0 +1,90 @@
+{
+    "template_name": "Cube Receipt Template",
+    "description": "領収書仕分け用フォルダ構造",
+    "structure": {
+        "m01": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m02": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m03": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m04": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m05": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m06": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m07": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m08": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m09": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m10": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m11": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        },
+        "m12": {
+            "Amazon":{},
+            "Discord":{},
+            "Maxon":{},
+            "NetShopping":{},
+            "Spotify":{}
+        }
+    }
+}

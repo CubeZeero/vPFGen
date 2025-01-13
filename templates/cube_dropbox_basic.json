@@ -1,0 +1,14 @@
+{
+    "template_name": "Cube Basic Template",
+    "description": "Works用フォルダ構造(Dropbox)",
+    "structure": {
+        "01_AEP(Comp)":{},
+        "02_Audio":{},
+        "03_Img(Illust)":{},
+        "04_Design(Ai)":{},
+        "05_3D Model":{},
+        "06_Preview":{},
+        "07_Documents":{},
+        "08_Master":{}
+    }
+}

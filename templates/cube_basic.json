@@ -1,0 +1,12 @@
+{
+    "template_name": "Cube Basic Template",
+    "description": "Works用フォルダ構造",
+    "structure": {
+        "01_AEP(Comp)":{},
+        "02_Material":{},
+        "03_Music":{},
+        "04_Preview":{},
+        "05_Documents":{},
+        "06_Master":{}
+    }
+}
