@@ -1,2 +1,2 @@
 # vPFGen
-Project folder creation tool for video production
+Project folder creation tool
